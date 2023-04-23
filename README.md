@@ -31,6 +31,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 # Architecture
 
-**Used ReactJS Library for building this application**
+**Used ReactJS Library for building this application** \
 **Used TailwindCSS for styling**
 
