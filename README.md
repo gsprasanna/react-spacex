@@ -33,4 +33,12 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Used ReactJS Library for building this application** \
 **Used TailwindCSS for styling**
+**Architected & configured the different breakpoints with custom container plugins**
+
+
+
+# Planned but not done
+**Loader Implementations**
+**Error Boundry Implementation**
+**Other Pages if time permitts**
 
